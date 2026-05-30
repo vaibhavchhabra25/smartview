@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+groq
+pymupdf
+python-docx
+python-dotenv
+pydantic>=2.0
+redis[asyncio]
+langgraph
+langgraph-checkpoint-sqlite
+aiosqlite
