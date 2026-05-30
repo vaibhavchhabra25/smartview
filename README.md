@@ -21,6 +21,7 @@ A stateful multi-agent mock interview platform built with LangGraph. Upload a re
 > After the final answer, scoring runs in parallel across all questions. The report shows an overall score and grade, per-category breakdowns, skill coverage chips, and per-question AI feedback (what went well / what to improve).
 
 ![Report Screen](docs/screenshots/report.png)
+![Detailed Report Screen](docs/screenshots/detailed_report.png)
 
 > 📸 *To add screenshots: take them from `http://localhost:5173` and save to `docs/screenshots/`.*
 
